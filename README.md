@@ -1,2 +1,2 @@
-# Descubra-Ciencia
-Site de vídeos de experimentos científicos construído com HTML, CSS e Javascript para a matéria de Programação WEB Front-End.
+# descubraciencia
+Projeto para faculdade de Sistemas de Informações do curso de Programação WEB Front-End, utilizando Javascript, CSS e HTML. Simulador de acervo de vídeos de experimentos científicos caseiros que redirecionam vídeos do YouTube.

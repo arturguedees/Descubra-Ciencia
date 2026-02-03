@@ -1,4 +1,4 @@
-// exemplo de pesquisa (simulação)
+// function para caixa de pesquisa
 document.querySelector(".search-box input").addEventListener("keyup", function(e) {
   if (e.key === "Enter") {
     alert("Pesquisando por: " + e.target.value);
